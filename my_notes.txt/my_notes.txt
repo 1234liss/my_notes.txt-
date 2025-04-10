@@ -1,0 +1,3 @@
+Primera nota: Recordar comprar leche.
+Segunda nota: Llamar al dentista.
+Tercera nota: Estudiar para el examen de Python.
